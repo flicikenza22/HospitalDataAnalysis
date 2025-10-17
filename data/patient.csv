@@ -1,0 +1,6 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis
+1,45,M,130,220,Healthy
+2,54,F,140,250,Heart Disease
+3,37,M,120,200,Healthy
+4,62,F,150,260,Heart Disease
+5,29,F,110,180,Healthy
